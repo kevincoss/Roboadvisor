@@ -17,3 +17,7 @@ Helper: 신창호 선생님
 ## Project 3: GM모델
 - Folder Name: GM_model
 - Date: 2023년 2학기
+
+## Project 4: Efficient Frontier
+- Folder Name: Asset_Allocation
+- Date: 2024년 1~2학기
